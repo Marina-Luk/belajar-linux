@@ -9,3 +9,4 @@
 ## Preview Hari 2  
 - `chmod` = Ubah permission file  
 - `sudo` = Jalankan sebagai admin  
+## Konten Baru
