@@ -1,0 +1,2 @@
+# Catatan Belajar Linux
+- Hari 1: Perintah Dasar
